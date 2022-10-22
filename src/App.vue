@@ -61,7 +61,7 @@ export default defineComponent({
   --tab-slider-height-active-px: 6px;
 }
 
-v-sheet {
+.v-sheet {
   background-color: var(--midnight) !important; /* this feels like bad css but i'm tired of fucking with it */
 }
 
